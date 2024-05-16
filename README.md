@@ -10,3 +10,5 @@ The classic 2048 game with added features such as undo, save, load, and reset
   * This class represents each individual tile of the game.
 * FileLineIterator
   * Used for reading from the txt file.
+* Game
+  * Contains the main method. Run this to play the game.
